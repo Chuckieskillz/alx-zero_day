@@ -1,2 +1,2 @@
 My first readme
-"The school is open!"
+The school is open!
